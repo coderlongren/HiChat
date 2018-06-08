@@ -6,4 +6,4 @@
 `node server.js`  
 haha, have a good time
 
-[效果图](/show.png)
+`[加入我们,现在就Chat](http://140.143.5.27:3001/)`
